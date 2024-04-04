@@ -1,0 +1,707 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.5653908,4.4137155 ]
+    },
+    "properties": {
+    "Country":"Brunei ",
+    "Population Growth Rate (average annual %)":1.3,
+    "Urban Population (% of total population":76.7,
+    "Fetility Rate":2,
+    "Life Expectancy at Birth (females)":76.2,
+    "Life Expectancy at Birth (males)":73.8,
+    "Health: Current Expenditure (% of GDP)":2.4,
+    "Education: Government expenditures (% of GDP)":2.4,
+    "International Homicide rate (per 100 000 pop.)":0.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.8144914,12.5433216 ]
+    },
+    "properties": {
+    "Country":"Cambodia ",
+    "Population Growth Rate (average annual %)":1.6,
+    "Urban Population (% of total population":22.2,
+    "Fetility Rate":2.7,
+    "Life Expectancy at Birth (females)":69.6,
+    "Life Expectancy at Birth (males)":65.5,
+    "Health: Current Expenditure (% of GDP)":6.2,
+    "Education: Government expenditures (% of GDP)":1.9,
+    "International Homicide rate (per 100 000 pop.)":1.8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 104.999927,35.000074 ]
+    },
+    "properties": {
+    "Country":"China ",
+    "Population Growth Rate (average annual %)":0.5,
+    "Urban Population (% of total population":55.5,
+    "Fetility Rate":1.6,
+    "Life Expectancy at Birth (females)":77.4,
+    "Life Expectancy at Birth (males)":73.1,
+    "Health: Current Expenditure (% of GDP)":4.9,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":0.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 126.063482,-8.7443169 ]
+    },
+    "properties": {
+    "Country":"East Timor ",
+    "Population Growth Rate (average annual %)":1.8,
+    "Urban Population (% of total population":29.5,
+    "Fetility Rate":4.4,
+    "Life Expectancy at Birth (females)":69.5,
+    "Life Expectancy at Birth (males)":65.9,
+    "Health: Current Expenditure (% of GDP)":4,
+    "Education: Government expenditures (% of GDP)":8.4,
+    "International Homicide rate (per 100 000 pop.)":4.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 114.1849161,22.350627 ]
+    },
+    "properties": {
+    "Country":"Hong Kong ",
+    "Population Growth Rate (average annual %)":0.6,
+    "Urban Population (% of total population":100,
+    "Fetility Rate":1.2,
+    "Life Expectancy at Birth (females)":86.4,
+    "Life Expectancy at Birth (males)":80.5,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":3.3,
+    "International Homicide rate (per 100 000 pop.)":0.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 139.2394179,36.5748441 ]
+    },
+    "properties": {
+    "Country":"Japan ",
+    "Population Growth Rate (average annual %)":-0.1,
+    "Urban Population (% of total population":91.4,
+    "Fetility Rate":1.4,
+    "Life Expectancy at Birth (females)":86.5,
+    "Life Expectancy at Birth (males)":80,
+    "Health: Current Expenditure (% of GDP)":10.9,
+    "Education: Government expenditures (% of GDP)":3.6,
+    "International Homicide rate (per 100 000 pop.)":0.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.378253,20.0171109 ]
+    },
+    "properties": {
+    "Country":"Laos ",
+    "Population Growth Rate (average annual %)":1.5,
+    "Urban Population (% of total population":33.1,
+    "Fetility Rate":2.9,
+    "Life Expectancy at Birth (females)":67.3,
+    "Life Expectancy at Birth (males)":63.7,
+    "Health: Current Expenditure (% of GDP)":2.5,
+    "Education: Government expenditures (% of GDP)":2.9,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 113.5380454,22.1899448 ]
+    },
+    "properties": {
+    "Country":"Macau",
+    "Population Growth Rate (average annual %)":2.2,
+    "Urban Population (% of total population":100,
+    "Fetility Rate":1.2,
+    "Life Expectancy at Birth (females)":86.2,
+    "Life Expectancy at Birth (males)":80.3,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":3,
+    "International Homicide rate (per 100 000 pop.)":0.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 102.2656823,4.5693754 ]
+    },
+    "properties": {
+    "Country":"Malaysia",
+    "Population Growth Rate (average annual %)":1.4,
+    "Urban Population (% of total population":74.2,
+    "Fetility Rate":2.1,
+    "Life Expectancy at Birth (females)":77.2,
+    "Life Expectancy at Birth (males)":73,
+    "Health: Current Expenditure (% of GDP)":3.8,
+    "Education: Government expenditures (% of GDP)":4.9,
+    "International Homicide rate (per 100 000 pop.)":2.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8499736,46.8250388 ]
+    },
+    "properties": {
+    "Country":"Mongolia ",
+    "Population Growth Rate (average annual %)":2,
+    "Urban Population (% of total population":68.2,
+    "Fetility Rate":2.8,
+    "Life Expectancy at Birth (females)":72.7,
+    "Life Expectancy at Birth (males)":64.5,
+    "Health: Current Expenditure (% of GDP)":4.2,
+    "Education: Government expenditures (% of GDP)":4.2,
+    "International Homicide rate (per 100 000 pop.)":7.1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 95.9999652,17.1750495 ]
+    },
+    "properties": {
+    "Country":"Myanmar ",
+    "Population Growth Rate (average annual %)":0.8,
+    "Urban Population (% of total population":29.9,
+    "Fetility Rate":2.2,
+    "Life Expectancy at Birth (females)":68,
+    "Life Expectancy at Birth (males)":61.3,
+    "Health: Current Expenditure (% of GDP)":5.5,
+    "Education: Government expenditures (% of GDP)":0.8,
+    "International Homicide rate (per 100 000 pop.)":2.2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.0870417,40.3736611 ]
+    },
+    "properties": {
+    "Country":"North Korea ",
+    "Population Growth Rate (average annual %)":0.5,
+    "Urban Population (% of total population":61.3,
+    "Fetility Rate":1.9,
+    "Life Expectancy at Birth (females)":74.1,
+    "Life Expectancy at Birth (males)":67.2,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 122.7312101,12.7503486 ]
+    },
+    "properties": {
+    "Country":"Philippines ",
+    "Population Growth Rate (average annual %)":1.7,
+    "Urban Population (% of total population":46.3,
+    "Fetility Rate":3,
+    "Life Expectancy at Birth (females)":74.6,
+    "Life Expectancy at Birth (males)":66.2,
+    "Health: Current Expenditure (% of GDP)":4.3,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":9.4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 103.8194992,1.357107 ]
+    },
+    "properties": {
+    "Country":"Singapore ",
+    "Population Growth Rate (average annual %)":1.7,
+    "Urban Population (% of total population":100,
+    "Fetility Rate":1.2,
+    "Life Expectancy at Birth (females)":84.5,
+    "Life Expectancy at Birth (males)":80.1,
+    "Health: Current Expenditure (% of GDP)":4.2,
+    "Education: Government expenditures (% of GDP)":2.9,
+    "International Homicide rate (per 100 000 pop.)":0.3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 127.6961188,36.638392 ]
+    },
+    "properties": {
+    "Country":"South Korea ",
+    "Population Growth Rate (average annual %)":0.5,
+    "Urban Population (% of total population":81.6,
+    "Fetility Rate":1.2,
+    "Life Expectancy at Birth (females)":84.4,
+    "Life Expectancy at Birth (males)":77.9,
+    "Health: Current Expenditure (% of GDP)":6.7,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":0.7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 120.9820179,23.9739374 ]
+    },
+    "properties": {
+    "Country":"Taiwan ",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 100.83273,14.8971921 ]
+    },
+    "properties": {
+    "Country":"Thailand ",
+    "Population Growth Rate (average annual %)":0.4,
+    "Urban Population (% of total population":47.7,
+    "Fetility Rate":1.5,
+    "Life Expectancy at Birth (females)":78.9,
+    "Life Expectancy at Birth (males)":71.6,
+    "Health: Current Expenditure (% of GDP)":3.7,
+    "Education: Government expenditures (% of GDP)":4.1,
+    "International Homicide rate (per 100 000 pop.)":3.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ 107.9650855,15.9266657 ]
+    },
+    "properties": {
+    "Country":"Vietnam ",
+    "Population Growth Rate (average annual %)":1,
+    "Urban Population (% of total population":33.8,
+    "Fetility Rate":2,
+    "Life Expectancy at Birth (females)":79.1,
+    "Life Expectancy at Birth (males)":70.8,
+    "Health: Current Expenditure (% of GDP)":5.7,
+    "Education: Government expenditures (% of GDP)":5.7,
+    "International Homicide rate (per 100 000 pop.)":1.5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  { }
+    },
+    "properties": {
+    "Country":"",
+    "Population Growth Rate (average annual %)":null,
+    "Urban Population (% of total population":null,
+    "Fetility Rate":null,
+    "Life Expectancy at Birth (females)":null,
+    "Life Expectancy at Birth (males)":null,
+    "Health: Current Expenditure (% of GDP)":null,
+    "Education: Government expenditures (% of GDP)":null,
+    "International Homicide rate (per 100 000 pop.)":null
+    }
+  }
+]
+}
